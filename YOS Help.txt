@@ -1,0 +1,12 @@
+Sessions - https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmyfedex.sharepoint.com%2F%3Af%3A%2Fr%2Fteams%2FSD-HubStackCC%2FKnowledge%2FYOS%2FTraining%2FRecorded%2520Sessions%3Fcsf%3D1%26web%3D1%26e%3D1sEbph&data=05%7C01%7Crajarama.kaniyoor.osv%40fedex.com%7C59fd02534799409ffb1808daef129831%7Cb945c813dce641f884575a12c2fe15bf%7C0%7C0%7C638085160385185492%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=MJ2b6uZhgVyM7VuUD1GDTTFdUq0M2Uu0EE8MkKhW6go%3D&reserved=0
+
+
+DB -
+
+YOS_SCHEMA
+yosadmin
+
+jdbc:oracle:thin:@(DESCRIPTION_LIST=(LOAD_BALANCE=off)(FAILOVER=off)(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=off)(ADDRESS=(PROTOCOL=TCP)(HOST=tntazneurpl108.tntad.fedex.com)(PORT=1522)))(CONNECT_DATA=(SERVICE_NAME=MSZPUPA1.tntad.fedex.com)))(DESCRIPTION=(ADDRESS_LIST=(LOAD_BALANCE=off)(ADDRESS=(PROTOCOL=TCP)(HOST=tntazneurpl109.tntad.fedex.com)(PORT=1522)))(CONNECT_DATA=(SERVICE_NAME=MSZPUPA1.tntad.fedex.com))))
+
+
+Status : Failure -Test failed: IO Error: The Network Adapter could not establish the connection (CONNECTION_ID=h0/wurQ2SCqUX8z1RCJvAg==)
